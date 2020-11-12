@@ -1,0 +1,17 @@
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.Infrastructure.dll
+C:\MyProject\Api\bin\Debug\netcoreapp2.1\Api.Infrastructure.pdb
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\MyProject\Api\obj\Debug\netcoreapp2.1\Api.pdb

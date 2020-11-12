@@ -1,0 +1,9 @@
+C:\MyProject\Api.Infrastructure\bin\Debug\netcoreapp2.1\Api.Infrastructure.deps.json
+C:\MyProject\Api.Infrastructure\bin\Debug\netcoreapp2.1\Api.Infrastructure.dll
+C:\MyProject\Api.Infrastructure\obj\Debug\netcoreapp2.1\Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyProject\Api.Infrastructure\obj\Debug\netcoreapp2.1\Api.Infrastructure.AssemblyInfoInputs.cache
+C:\MyProject\Api.Infrastructure\obj\Debug\netcoreapp2.1\Api.Infrastructure.AssemblyInfo.cs
+C:\MyProject\Api.Infrastructure\bin\Debug\netcoreapp2.1\Api.Infrastructure.pdb
+C:\MyProject\Api.Infrastructure\obj\Debug\netcoreapp2.1\Api.Infrastructure.dll
+C:\MyProject\Api.Infrastructure\obj\Debug\netcoreapp2.1\Api.Infrastructure.pdb
+C:\MyProject\Api.Infrastructure\obj\Debug\netcoreapp2.1\Api.Infrastructure.csprojAssemblyReference.cache
