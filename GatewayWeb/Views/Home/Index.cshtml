@@ -1,0 +1,28 @@
+﻿@using System.Web.Configuration
+
+@section scripts {
+    <script type="text/javascript" src="~/Scripts/Views/home.js"></script>
+}
+@Html.Hidden("apihost", WebConfigurationManager.AppSettings["apihost"])
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+    <div class="jumbotron">
+        <h2>REGISTER OF GATEWAYS</h2>
+        <p class="lead">Here you can register new gateways in the database. Remember that the fields "serial number" and "ip" are mandatory.</p>
+
+        <label for="serial">Serial number:</label>
+        <input style="max-width: 140px" type="text" id="serial" name="serial">
+        <label for="brand">Brand:</label>
+        <input style="max-width: 140px" type="text" id="brand" name="brand">
+        <label for="model">Model:</label>
+        <input style="max-width: 140px" type="text" id="model" name="serial">
+        <label for="ip">Ip:</label>
+        <input style="max-width: 140px" type="text" id="ip" name="ip">
+        <label for="port">Port:</label>
+        <input style="max-width: 140px" type="text" id="port" name="port">
+        <br><br>
+        <button class="btn btn-default" id="submit" value="submit">Submit</button>
+    </div>
